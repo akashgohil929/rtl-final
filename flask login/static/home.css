@@ -1,0 +1,30 @@
+.col-sm-3 .card{
+  border-radius: 10px;
+  border: 3px solid rgb(245, 245, 245);
+  margin-left: 10px;
+  margin-right: 10px;
+  color: white;
+  background-image: linear-gradient(to left, #3a7bd5,#3d9fd0);
+}
+
+.col-sm-3 .card .card-body .card-title{
+  font-size: 30px;
+}
+
+#nav{
+  border-radius: 10px;
+}
+
+
+body{
+  background-image: linear-gradient(to right, #2C3E50, #004e92);
+}
+
+#header1{
+  color: white;
+  background-image: linear-gradient(to right, #000428, #004e92);
+}
+
+#header{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(24, 95, 248);
+}
+
+#login-page{
+    background-color: white;
+    border: 2px solid rgb(37, 132, 255);
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 175px;
+
+}
+
+.input{
+    width: 70%;
+    /* padding: 0px 0px 12px 12px;
+    margin: 0 0 12 12; */
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+
+}
+
+.input:focus{
+    border: 3px solid rgb(37, 132, 255);
+    border-radius: 4px;
+    background-color: rgba(149, 198, 255, 0.466);
+}
+
+.BTN {
+    transition-duration: 0.4s;
+    background-color: rgb(37, 132, 255); 
+  border: 3 px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+  
+.BTN:hover {
+    background-color: #4e2fff8c; /* Green */
+    color: white;
+}
